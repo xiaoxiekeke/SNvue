@@ -1,0 +1,44 @@
+{
+	"editItems":[
+    {
+      "type":"text",
+      "key":"客户名称",
+      "value":"赛思互动科技有限公司"
+    },
+    {
+      "type":"text",
+      "key":"客户简称",
+      "value":"赛思互动"
+    },
+    {
+      "type":"text",
+      "key":"母公司",
+      "value":""
+    },
+    {
+      "type":"select",
+      "key":"负责人",
+      "opts":[
+        {"value":0,"text":"管理员"},
+        {"value":1,"text":"thomas"},
+        {"value":2,"text":"james"},
+        {"value":3,"text":"hicks"}
+      ]
+    },
+    {
+      "type":"text",
+      "key":"英文名称",
+      "value":"salesplus"
+    },
+    {
+      "type":"checkbox",
+      "key":"提醒负责人",
+      "value":true
+    },
+    {
+      "type":"textarea",
+      "key":"描述",
+      "value":"this is desc"
+    }
+  ]
+}

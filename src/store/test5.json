@@ -1,0 +1,52 @@
+{
+	"optName":"销售机会",
+	"optLists":[{
+		"id":1,
+		"list":[{
+			"key":"状态",
+			"value":"held"
+		},{
+			"key":"类型",
+			"value":"电话"
+		},{
+			"key":"主题",
+			"value":"1"
+		},{
+			"key":"关联于",
+			"value":""
+		},{
+			"key":"开始日期和时间",
+			"value":"06-05-2016 11:05 AM"
+		},{
+			"key":"Recurrence",
+			"value":"None"
+		},{
+			"key":"负责人",
+			"value":"小可"
+		}]
+	},{
+		"id":1,
+		"list":[{
+			"key":"状态",
+			"value":"held"
+		},{
+			"key":"类型",
+			"value":"电话"
+		},{
+			"key":"主题",
+			"value":"1"
+		},{
+			"key":"关联于",
+			"value":""
+		},{
+			"key":"开始日期和时间",
+			"value":"06-05-2016 11:05 AM"
+		},{
+			"key":"Recurrence",
+			"value":"None"
+		},{
+			"key":"负责人",
+			"value":"小可"
+		}]
+	}]
+}

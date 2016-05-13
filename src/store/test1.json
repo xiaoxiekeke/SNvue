@@ -1,0 +1,41 @@
+{
+  "moduleName":"客户",
+  "objectList":[{
+    "objId":1,
+    "objName":"客户1",
+    "CreateTime":"01-17 16:20"
+  },{
+    "objId":2,
+    "objName":"客户2",
+    "CreateTime":"01-18 16:20"
+  },{
+    "objId":3,
+    "objName":"客户3",
+    "CreateTime":"01-18 16:20"
+  },{
+    "objId":4,
+    "objName":"客户4",
+    "CreateTime":"01-18 16:20"
+  }],
+  "moduleSearchlist":[{
+    "searchName":"全部客户",
+    "nums":20,
+    "searchParams":1
+  },{
+    "searchName":"我负责的客户",
+    "nums":10,
+    "searchParams":2
+  },{
+    "searchName":"我关注的客户",
+    "nums":7,
+    "searchParams":3
+  },{
+    "searchName":"我参与的客户",
+    "nums":5,
+    "searchParams":4
+  },{
+    "searchName":"7天未跟进客户",
+    "nums":5,
+    "searchParams":5
+  }]
+}
