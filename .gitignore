@@ -3,4 +3,4 @@ node_modules
 *.map
 *compiled.js
 .DS_Store
-build.js
+
