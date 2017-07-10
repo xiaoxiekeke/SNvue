@@ -2,5 +2,5 @@ node_modules
 .idea
 *.map
 *compiled.js
-build.js
 .DS_Store
+build.js
