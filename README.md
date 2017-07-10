@@ -18,25 +18,26 @@
 ```
 <br>
 ###4、安装依赖：<br>
+
 ```
-    cd SNWeChat  //进入项目目录
+cd SNWeChat 
 ```
-    <br>
+    
 ```
-    cnpm install  //利用cnpm安装依赖
+ cnpm install  
 ```
     <br>
 ###5、本地开发调试：
 <br>
 ```
-    npm run dev  //启动webpack-dev-server
+ npm run dev  
 ```
 ###6、在浏览器中输入：localhost:8080  查看运行效果    
 <br>
 ###7、前端发布：
 <br>
 ```
-    npm run build
+ npm run build
 ```
 <br>
 ###8、前端发布完成后，会在/static/目录下多出一个index.js文件，整个项目的资源就被压缩在了一个js文件里了，此时可以在浏览器环境下直接运行index.html文件了！！！
